@@ -1,4 +1,4 @@
-# Kata-sum-of-integer-and-intergers-in-array
+# JS-Kata-sum-of-integer-and-intergers-in-array
 
 You are receiving an int n and an array of integers m as parameters. You need to calculate the sum of the int received as first parameter in the function and all integers from the array that are exactly divisible with 2.
 
