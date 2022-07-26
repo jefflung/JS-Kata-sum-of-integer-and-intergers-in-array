@@ -22,15 +22,15 @@ int total
 
 EXAMPLE 1
 
-Input: 1, [1,2,3,4]
-Output: 7
+Input: 1, [1,2,3,4]</br>
+Output: 7</br>
 ^ the output is 7 because 1 (the first parameter of function) + 2 (is divisible by 2) + 4 (is divisible by 2) = 7
 
 
 EXAMPLE 2
 
-Input: 2, [1,3]
-Output: 2
+Input: 2, [1,3]</br>
+Output: 2</br>
 ^ the output is 2 because 2 (the first parameter of function) is the only integer added to the final result, 1 is not divisible by 2 and 3 is not divisible by 2
 
 
