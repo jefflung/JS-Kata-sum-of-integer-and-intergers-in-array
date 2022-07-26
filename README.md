@@ -42,7 +42,7 @@ m can have between 0 and 1000 elements
 
 My answer:
 
-``function Add(n,m){
+```function Add(n,m){
 
 let sum = 0;
 
@@ -58,4 +58,4 @@ if (m.length > -1 && m.length < 999){
 return n + sum;
 }
 
-console.log(Add(1, [1,2,3,4]));``
+console.log(Add(1, [1,2,3,4]));```
